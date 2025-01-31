@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "computer",
+  "wake_word": "hey_jarvis",
   "author": "Leland Olney",
   "website": "https://github.com/JohnnyPrimus/",
-  "model": "computer.tflite",
+  "model": "hey_jarvis.tflite",
   "version": 2,
   "micro": {
     "probability_cutoff": 0.66,
